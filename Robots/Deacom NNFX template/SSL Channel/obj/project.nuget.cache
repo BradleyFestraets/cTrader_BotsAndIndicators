@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rmwmr+Ysybz+9pOC/bDn1QUHr9MqrkZOiY3GFISBN0oYr9mj+94qFOPx1a0pCMRnjrXGoDEIcbi7L5K+6nuT2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BradleyF\\Documents\\cAlgo\\Sources\\Robots\\Deacom NNFX template\\SSL Channel\\SSL Channel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BradleyF\\.nuget\\packages\\ctrader.automate\\1.0.6\\ctrader.automate.1.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

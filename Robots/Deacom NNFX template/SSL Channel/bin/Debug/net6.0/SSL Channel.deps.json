@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSL Channel/1.0.0": {
+        "dependencies": {
+          "cTrader.Automate": "1.0.6"
+        },
+        "runtime": {
+          "SSL Channel.dll": {}
+        }
+      },
+      "cTrader.Automate/1.0.6": {
+        "runtime": {
+          "lib/net6.0/cAlgo.API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSL Channel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cTrader.Automate/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WmiMvQ01d4ZiLZC1cJiNnfLxxdA01B+QAXVcMC2RhMBg3xIMgqiM0cuvLiSqjbm+NXxWm8mVf5UqVpU8sGwlXw==",
+      "path": "ctrader.automate/1.0.6",
+      "hashPath": "ctrader.automate.1.0.6.nupkg.sha512"
+    }
+  }
+}
